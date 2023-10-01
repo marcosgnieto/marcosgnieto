@@ -5,7 +5,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/spring boot-%236DB33F.svg?logo=springboot&logoColor=white&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?logo=springboot&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
